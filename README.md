@@ -11,4 +11,4 @@ Used parameters are:
 - M: number of cascading integrator and comb stages
 - R: decimation factor
 - N: differential delay for comb stages
-- 
+
